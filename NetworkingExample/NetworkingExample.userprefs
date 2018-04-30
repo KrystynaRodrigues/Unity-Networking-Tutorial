@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Health.cs">
+    <Files>
+      <File FileName="Assets\Bullet.cs" Line="14" Column="3" />
+      <File FileName="Assets\Health.cs" Line="46" Column="31" />
+      <File FileName="Assets\Billboard.cs" Line="10" Column="44" />
+      <File FileName="Assets\EnemySpawner.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
